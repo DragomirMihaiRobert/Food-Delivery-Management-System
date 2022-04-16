@@ -1,0 +1,7 @@
+Order ID: 1
+Client ID: 1
+Order date: 25-05-2021 11:32
+Total: 152
+Products ordered:
+101 Whaler Fish Sandwich 
+1977 Coconut Angel Food Cake 

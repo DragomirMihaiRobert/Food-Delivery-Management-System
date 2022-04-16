@@ -1,0 +1,8 @@
+Order ID: 2
+Client ID: 1
+Order date: 25-05-2021 11:28
+Total: 240
+Products ordered:
+101 Whaler Fish Sandwich 
+1985 Chicken Pie with Biscuit Crust 
+1989 Chocolate Raspberry Almond Torte 

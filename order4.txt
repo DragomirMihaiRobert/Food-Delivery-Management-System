@@ -1,0 +1,6 @@
+Order ID: 4
+Client ID: 2
+Order date: 25-05-2021 09:23
+Total: 90
+Products ordered:
+3-Ingredient Curried Chicken Thighs 

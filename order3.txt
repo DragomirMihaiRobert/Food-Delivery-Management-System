@@ -1,0 +1,6 @@
+Order ID: 3
+Client ID: 2
+Order date: 25-05-2021 11:29
+Total: 85
+Products ordered:
+101 Whaler Fish Sandwich 
